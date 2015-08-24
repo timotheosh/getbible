@@ -2,6 +2,7 @@
   "GEN": {
     "name": "Genesis",
     "osisId": "Gen",
+    "strongsRef": "H",
     "numChapters": "50",
     "1": "31",
     "2": "25",
@@ -57,6 +58,7 @@
   "EXO": {
     "name": "Exodus",
     "osisId": "Exod",
+    "strongsRef": "H",
     "numChapters": "40",
     "1": "22",
     "2": "25",
@@ -102,6 +104,7 @@
   "LEV": {
     "name": "Leviticus",
     "osisId": "Lev",
+    "strongsRef": "H",
     "numChapters": "27",
     "1": "17",
     "2": "16",
@@ -134,6 +137,7 @@
   "NUM": {
     "name": "Numbers",
     "osisId": "Num",
+    "strongsRef": "H",
     "numChapters": "36",
     "1": "54",
     "2": "34",
@@ -175,6 +179,7 @@
   "DEU": {
     "name": "Deuteronomy",
     "osisId": "Deut",
+    "strongsRef": "H",
     "numChapters": "34",
     "1": "46",
     "2": "37",
@@ -214,6 +219,7 @@
   "JOS": {
     "name": "Joshua",
     "osisId": "Josh",
+    "strongsRef": "H",
     "numChapters": "24",
     "1": "18",
     "2": "24",
@@ -243,6 +249,7 @@
   "JDG": {
     "name": "Judges",
     "osisId": "Judg",
+    "strongsRef": "H",
     "numChapters": "21",
     "1": "36",
     "2": "23",
@@ -269,6 +276,7 @@
   "RUT": {
     "name": "Ruth",
     "osisId": "Ruth",
+    "strongsRef": "H",
     "numChapters": "4",
     "1": "22",
     "2": "23",
@@ -278,6 +286,7 @@
   "1SA": {
     "name": "1 Samuel",
     "osisId": "1Sam",
+    "strongsRef": "H",
     "numChapters": "31",
     "1": "28",
     "2": "36",
@@ -314,6 +323,7 @@
   "2SA": {
     "name": "2 Samuel",
     "osisId": "2Sam",
+    "strongsRef": "H",
     "numChapters": "24",
     "1": "27",
     "2": "32",
@@ -343,6 +353,7 @@
   "1KI": {
     "name": "1 Kings",
     "osisId": "1Kgs",
+    "strongsRef": "H",
     "numChapters": "22",
     "1": "53",
     "2": "46",
@@ -370,6 +381,7 @@
   "2KI": {
     "name": "2 Kings",
     "osisId": "2Kgs",
+    "strongsRef": "H",
     "numChapters": "25",
     "1": "18",
     "2": "25",
@@ -400,6 +412,7 @@
   "1CH": {
     "name": "1 Chronicles",
     "osisId": "1Chr",
+    "strongsRef": "H",
     "numChapters": "29",
     "1": "54",
     "2": "55",
@@ -434,6 +447,7 @@
   "2CH": {
     "name": "2 Chronicles",
     "osisId": "2Chr",
+    "strongsRef": "H",
     "numChapters": "36",
     "1": "17",
     "2": "18",
@@ -475,6 +489,7 @@
   "EZR": {
     "name": "Ezra",
     "osisId": "Ezra",
+    "strongsRef": "H",
     "numChapters": "10",
     "1": "11",
     "2": "70",
@@ -490,6 +505,7 @@
   "NEH": {
     "name": "Nehemiah",
     "osisId": "Neh",
+    "strongsRef": "H",
     "numChapters": "13",
     "1": "11",
     "2": "20",
@@ -508,6 +524,7 @@
   "EST": {
     "name": "Esther",
     "osisId": "Esth",
+    "strongsRef": "H",
     "numChapters": "10",
     "1": "22",
     "2": "23",
@@ -523,6 +540,7 @@
   "JOB": {
     "name": "Job",
     "osisId": "Job",
+    "strongsRef": "H",
     "numChapters": "42",
     "1": "22",
     "2": "13",
@@ -570,6 +588,7 @@
   "PSA": {
     "name": "Psalms",
     "osisId": "Ps",
+    "strongsRef": "H",
     "numChapters": "150",
     "1": "6",
     "2": "12",
@@ -725,6 +744,7 @@
   "PRO": {
     "name": "Proverbs",
     "osisId": "Prov",
+    "strongsRef": "H",
     "numChapters": "31",
     "1": "33",
     "2": "22",
@@ -761,6 +781,7 @@
   "ECC": {
     "name": "Ecclesiastes",
     "osisId": "Eccl",
+    "strongsRef": "H",
     "numChapters": "12",
     "1": "18",
     "2": "26",
@@ -778,6 +799,7 @@
   "SON": {
     "name": "Song of Solomon",
     "osisId": "Song",
+    "strongsRef": "H",
     "numChapters": "8",
     "1": "17",
     "2": "17",
@@ -791,6 +813,7 @@
   "ISA": {
     "name": "Isaiah",
     "osisId": "Isa",
+    "strongsRef": "H",
     "numChapters": "66",
     "1": "31",
     "2": "22",
@@ -862,6 +885,7 @@
   "JER": {
     "name": "Jeremiah",
     "osisId": "Jer",
+    "strongsRef": "H",
     "numChapters": "52",
     "1": "19",
     "2": "37",
@@ -919,6 +943,7 @@
   "LAM": {
     "name": "Lamentations",
     "osisId": "Lam",
+    "strongsRef": "H",
     "numChapters": "5",
     "1": "22",
     "2": "22",
@@ -929,6 +954,7 @@
   "EZE": {
     "name": "Ezekiel",
     "osisId": "Ezek",
+    "strongsRef": "H",
     "numChapters": "48",
     "1": "28",
     "2": "10",
@@ -982,6 +1008,7 @@
   "DAN": {
     "name": "Daniel",
     "osisId": "Dan",
+    "strongsRef": "H",
     "numChapters": "12",
     "1": "21",
     "2": "49",
@@ -999,6 +1026,7 @@
   "HOS": {
     "name": "Hosea",
     "osisId": "Hos",
+    "strongsRef": "H",
     "numChapters": "14",
     "1": "12",
     "2": "22",
@@ -1018,6 +1046,7 @@
   "JOE": {
     "name": "Joel",
     "osisId": "Joel",
+    "strongsRef": "H",
     "numChapters": "3",
     "1": "20",
     "2": "32",
@@ -1026,6 +1055,7 @@
   "AMO": {
     "name": "Amos",
     "osisId": "Amos",
+    "strongsRef": "H",
     "numChapters": "9",
     "1": "15",
     "2": "16",
@@ -1040,12 +1070,14 @@
   "OBA": {
     "name": "Obadiah",
     "osisId": "Obad",
+    "strongsRef": "H",
     "numChapters": "1",
     "1": "21"
   },
   "JON": {
     "name": "Jonah",
     "osisId": "Jonah",
+    "strongsRef": "H",
     "numChapters": "4",
     "1": "17",
     "2": "10",
@@ -1055,6 +1087,7 @@
   "MIC": {
     "name": "Micah",
     "osisId": "Mic",
+    "strongsRef": "H",
     "numChapters": "7",
     "1": "16",
     "2": "13",
@@ -1067,6 +1100,7 @@
   "NAH": {
     "name": "Nahum",
     "osisId": "Nah",
+    "strongsRef": "H",
     "numChapters": "3",
     "1": "15",
     "2": "13",
@@ -1075,6 +1109,7 @@
   "HAB": {
     "name": "Habakkuk",
     "osisId": "Hab",
+    "strongsRef": "H",
     "numChapters": "3",
     "1": "17",
     "2": "20",
@@ -1083,6 +1118,7 @@
   "ZEP": {
     "name": "Zephaniah",
     "osisId": "Zeph",
+    "strongsRef": "H",
     "numChapters": "3",
     "1": "18",
     "2": "15",
@@ -1091,6 +1127,7 @@
   "HAG": {
     "name": "Haggai",
     "osisId": "Hag",
+    "strongsRef": "H",
     "numChapters": "2",
     "1": "14",
     "2": "24"
@@ -1098,6 +1135,7 @@
   "ZEC": {
     "name": "Zechariah",
     "osisId": "Zech",
+    "strongsRef": "H",
     "numChapters": "14",
     "1": "21",
     "2": "13",
@@ -1117,6 +1155,7 @@
   "MAL": {
     "name": "Malachi",
     "osisId": "Mal",
+    "strongsRef": "H",
     "numChapters": "4",
     "1": "14",
     "2": "17",
@@ -1126,6 +1165,7 @@
   "MAT": {
     "name": "Matthew",
     "osisId": "Matt",
+    "strongsRef": "G",
     "numChapters": "28",
     "1": "25",
     "2": "23",
@@ -1159,6 +1199,7 @@
   "MAR": {
     "name": "Mark",
     "osisId": "Mark",
+    "strongsRef": "G",
     "numChapters": "16",
     "1": "45",
     "2": "28",
@@ -1180,6 +1221,7 @@
   "LUK": {
     "name": "Luke",
     "osisId": "Luke",
+    "strongsRef": "G",
     "numChapters": "24",
     "1": "80",
     "2": "52",
@@ -1209,6 +1251,7 @@
   "JOH": {
     "name": "John",
     "osisId": "John",
+    "strongsRef": "G",
     "numChapters": "21",
     "1": "52",
     "2": "25",
@@ -1235,6 +1278,7 @@
   "ACT": {
     "name": "Acts",
     "osisId": "Acts",
+    "strongsRef": "G",
     "numChapters": "28",
     "1": "26",
     "2": "47",
@@ -1268,6 +1312,7 @@
   "ROM": {
     "name": "Romans",
     "osisId": "Rom",
+    "strongsRef": "G",
     "numChapters": "16",
     "1": "32",
     "2": "29",
@@ -1289,6 +1334,7 @@
   "1CO": {
     "name": "1 Corinthians",
     "osisId": "1Cor",
+    "strongsRef": "G",
     "numChapters": "16",
     "1": "31",
     "2": "16",
@@ -1310,6 +1356,7 @@
   "2CO": {
     "name": "2 Corinthians",
     "osisId": "2Cor",
+    "strongsRef": "G",
     "numChapters": "13",
     "1": "24",
     "2": "17",
@@ -1328,6 +1375,7 @@
   "GAL": {
     "name": "Galatians",
     "osisId": "Gal",
+    "strongsRef": "G",
     "numChapters": "6",
     "1": "24",
     "2": "21",
@@ -1338,8 +1386,9 @@
   },
   "EPH": {
     "name": "Ephesians",
-    "numChapters": "6",
     "osisId": "Eph",
+    "strongsRef": "G",
+    "numChapters": "6",
     "1": "23",
     "2": "22",
     "3": "21",
@@ -1350,6 +1399,7 @@
   "PHP": {
     "name": "Philippians",
     "osisId": "Phil",
+    "strongsRef": "G",
     "numChapters": "4",
     "1": "30",
     "2": "30",
@@ -1359,6 +1409,7 @@
   "COL": {
     "name": "Colossians",
     "osisId": "Col",
+    "strongsRef": "G",
     "numChapters": "4",
     "1": "29",
     "2": "23",
@@ -1368,6 +1419,7 @@
   "1TH": {
     "name": "1 Thessalonians",
     "osisId": "1Thess",
+    "strongsRef": "G",
     "numChapters": "5",
     "1": "10",
     "2": "20",
@@ -1378,6 +1430,7 @@
   "2TH": {
     "name": "2 Thessalonians",
     "osisId": "2Thess",
+    "strongsRef": "G",
     "numChapters": "3",
     "1": "12",
     "2": "17",
@@ -1386,6 +1439,7 @@
   "1TI": {
     "name": "1 Timothy",
     "osisId": "1Tim",
+    "strongsRef": "G",
     "numChapters": "6",
     "1": "20",
     "2": "15",
@@ -1397,6 +1451,7 @@
   "2TI": {
     "name": "2 Timothy",
     "osisId": "2Tim",
+    "strongsRef": "G",
     "numChapters": "4",
     "1": "18",
     "2": "26",
@@ -1406,6 +1461,7 @@
   "TIT": {
     "name": "Titus",
     "osisId": "Titus",
+    "strongsRef": "G",
     "numChapters": "3",
     "1": "16",
     "2": "15",
@@ -1414,12 +1470,14 @@
   "PHM": {
     "name": "Philemon",
     "osisId": "Phlm",
+    "strongsRef": "G",
     "numChapters": "1",
     "1": "25"
   },
   "HEB": {
     "name": "Hebrews",
     "osisId": "Heb",
+    "strongsRef": "G",
     "numChapters": "13",
     "1": "14",
     "2": "18",
@@ -1438,6 +1496,7 @@
   "JAM": {
     "name": "James",
     "osisId": "Jas",
+    "strongsRef": "G",
     "numChapters": "5",
     "1": "27",
     "2": "26",
@@ -1448,6 +1507,7 @@
   "1PE": {
     "name": "1 Peter",
     "osisId": "1Pet",
+    "strongsRef": "G",
     "numChapters": "5",
     "1": "25",
     "2": "25",
@@ -1458,6 +1518,7 @@
   "2PE": {
     "name": "2 Peter",
     "osisId": "2Pet",
+    "strongsRef": "G",
     "numChapters": "3",
     "1": "21",
     "2": "22",
@@ -1466,6 +1527,7 @@
   "1JN": {
     "name": "1 John",
     "osisId": "1John",
+    "strongsRef": "G",
     "numChapters": "5",
     "1": "10",
     "2": "29",
@@ -1476,24 +1538,28 @@
   "2JN": {
     "name": "2 John",
     "osisId": "2John",
+    "strongsRef": "G",
     "numChapters": "1",
     "1": "13"
   },
   "3JN": {
     "name": "3 John",
     "osisId": "3John",
+    "strongsRef": "G",
     "numChapters": "1",
     "1": "15"
   },
   "JUD": {
     "name": "Jude",
     "osisId": "Jude",
+    "strongsRef": "G",
     "numChapters": "1",
     "1": "25"
   },
   "REV": {
     "name": "Revelation",
     "osisId": "Rev",
+    "strongsRef": "G",
     "numChapters": "22",
     "1": "20",
     "2": "29",
